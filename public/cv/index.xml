@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | David Failing</title>
+    <link>/cv/</link>
+      <atom:link href="/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright>
+    <image>
+      <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
+      <title>Courses</title>
+      <link>/cv/</link>
+    </image>
+    
+    <item>
+      <title>Experience</title>
+      <link>/cv/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplishments</title>
+      <link>/cv/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
