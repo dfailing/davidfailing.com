@@ -1,5 +1,7 @@
 ---
 date: "2019-07-12"
+authors: 
+  - david
 diagram: true
 highlight: true
 image:

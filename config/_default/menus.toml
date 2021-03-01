@@ -10,12 +10,12 @@
 
 [[main]]
   name = "Blog"
-  url = "blog"
+  url = "blog/"
   weight = 20
 
 [[main]]
   name = "Research"
-  url = "/research"
+  url = "research/"
   weight = 40
 
 [[main]]
@@ -25,12 +25,12 @@
   
 [[main]]
   name = "Projects"
-  url = "/projects"
+  url = "projects/"
   weight = 60
 
 [[main]]
   name = "CV"
-  url = "/cv"
+  url = "cv/"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
