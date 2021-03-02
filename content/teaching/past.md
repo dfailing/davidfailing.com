@@ -40,8 +40,8 @@ item:
   organization: " " # Required
   organization_url:  # Links organization
   description: # Indented within block
-    CS 476 Requirements Engineering (GTA, Fall '20)  <br />
-    CS 486 Capstone Design (GTA, Spring '21)  
+    CS 476 - Requirements Engineering (GTA, Fall '20)  <br />
+    CS 486 - Capstone Design (GTA, Spring '21)  
 
 - date_start: "2017-08-01" # Required
   date_end: "2020-08-01"

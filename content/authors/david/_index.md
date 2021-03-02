@@ -6,9 +6,9 @@ education:
   - course: PhD in Informatics and Computing
     institution: Northern Arizona University
     year: 2025 (Expected)
-  - course: Graduate Study in LIS
-    institution: University of Illinois
-    year: 2013-2019
+#  - course: Graduate Study in LIS
+#    institution: University of Illinois
+#    year: 2013-2019
   - course: PhD in Mathematics
     institution: Iowa State University
     year: 2013

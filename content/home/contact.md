@@ -19,7 +19,7 @@ content:
   # Email form provider
   # Without a `provider`, removes form
   form:
-    provider: formspree
+    provider: # formspree
     formspree:
       id: xrgowqko
     netlify:

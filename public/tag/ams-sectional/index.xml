@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMS Sectional | David Failing</title>
+    <link>/tag/ams-sectional/</link>
+      <atom:link href="/tag/ams-sectional/index.xml" rel="self" type="application/rss+xml" />
+    <description>AMS Sectional</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Sun, 28 Apr 2013 08:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
+      <title>AMS Sectional</title>
+      <link>/tag/ams-sectional/</link>
+    </image>
+    
+    <item>
+      <title>Structure Theory of CI-Groupoids of Bol-Moufang Type</title>
+      <link>/talk/2013-04-28-ams-central/</link>
+      <pubDate>Sun, 28 Apr 2013 08:30:00 +0000</pubDate>
+      <guid>/talk/2013-04-28-ams-central/</guid>
+      <description>&lt;p&gt;A groupoid identity $p \approx q$ is of Bol-Moufang type if (i) the same 3 variables appear in $p$ and $q$, (ii) one of the variables appears twice in $p$ and $q$, (iii) the remaining two variables appear once in $p$ and $q$, and (iv) the variables appear in the same order in $p$ and $q$. Phillips and Vojtechovsky studied quasigroup and loop varieties defined by one additional identity of Bol-Moufang type, showing that there are exactly 26 and 14 such varieties, respectively.&lt;/p&gt;
+&lt;p&gt;Aided by Prover9/Mace4 and the Universal Algebra Calculator, we show that there are exactly eight varieties of commutative, idempotent groupoids defined by one additional identity of Bol-Moufang type. Five of them are congruence meet-semidistributive. We investigate the structure of the variety of commutative, idempotent groupoids satisfying $x(x(yz)) \approx (x(xy))z$, and show that it is the regularization of the variety of squags. We also show that every finite commutative, idempotent, distributive groupoid is a Plonka sum of quasigroups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSP for Commutative, Idempotent Groupoids</title>
+      <link>/talk/2013-04-14-ams-western/</link>
+      <pubDate>Sun, 14 Apr 2013 09:30:00 +0000</pubDate>
+      <guid>/talk/2013-04-14-ams-western/</guid>
+      <description>&lt;p&gt;A theorem of Bulatov, Jeavons and Krokhin states that when the algebra associated with a core template does not lie in a Taylor variety, then the CSP for that template is NP-complete. In the same paper, the authors conjecture that in all other cases, the corresponding CSP is solvable in polynomial time. Maroti and McKenzie showed that an algebra generates a Taylor variety if and only if it has a $k$-ary weak near-unanimity (WNU) operation for some $k$; this shifts the search for a proof of the algebraic dichotomy conjecture to focus on WNU operations.&lt;/p&gt;
+&lt;p&gt;A binary operation is a WNU precisely if it is commutative and idempotent, and a semilattice operation is known to be sufficient for the tractability of an algebra. Using Prover9 and the Universal Algebra Calculator, we investigate several weakenings of associativity and show that they too are sufficient for the tractability of a finite commutative, idempotent groupoid. In particular a finite CI-groupoid has a tractable CSP if it satisfies any of the following identities: $x(y(xz)) \approx x((yx)z)$, $x(y(yz)) \approx ((xy)y)z$, $x(yz) \approx (xy)(xz)$. A key tool is the theory of Plonka sums. Roughly speaking, we prove that a finite Plonka sum of finite algebras lying in a tractable variety is tractable.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mace4 | David Failing</title>
+    <link>/tag/mace4/</link>
+      <atom:link href="/tag/mace4/index.xml" rel="self" type="application/rss+xml" />
+    <description>mace4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Wed, 29 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
+      <title>mace4</title>
+      <link>/tag/mace4/</link>
+    </image>
+    
+    <item>
+      <title>Commutative, idempotent groupoids and the constraint satisfaction problem</title>
+      <link>/publication/2015-algebra-universalis/</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-algebra-universalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissertation: Commutative, idempotent groupoids and the constraint satisfaction problem</title>
+      <link>/publication/2013-dissertation/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-dissertation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
