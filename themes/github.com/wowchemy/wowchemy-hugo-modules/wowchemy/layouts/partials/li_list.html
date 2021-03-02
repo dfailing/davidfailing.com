@@ -1,3 +1,5 @@
+<!-- MODIFIED THIS TO INCLUDE AUTHOR IN PAGES LIST -->
+
 {{ $item := . }}
 
 {{/* Dynamic view adjusts to content type. */}}
@@ -10,8 +12,11 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
+<!-- CHANGE show_authors to true to get this to work -->
+<!-- a page needs AUTHORS set and not AUTHOR (s) -->
 {{ if eq $item.Type "post" }}
   {{ $icon = "fa-newspaper" }}
+  {{ $show_authors := true }}
 {{ else if eq $item.Type "event" }}
   {{ $icon = "fa-calendar-alt" }}
 {{ else if eq $item.Type "publication" }}

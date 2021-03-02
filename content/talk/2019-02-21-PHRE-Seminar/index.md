@@ -13,7 +13,7 @@ date: "2019-02-21"
 date_end: ""
 
 categories: 
-  - seminar
+  - invited talk
 tags:
   - 
 lastmod:

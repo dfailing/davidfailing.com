@@ -13,7 +13,7 @@ date: "2013-03-21"
 date_end: ""
 
 categories: 
-  - seminar
+  - invited talk
 tags:
   - 
 lastmod:
