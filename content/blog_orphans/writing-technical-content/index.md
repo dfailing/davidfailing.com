@@ -2,6 +2,7 @@
 date: "2019-07-12"
 authors: 
   - david
+draft: true
 diagram: true
 highlight: true
 image:

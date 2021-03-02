@@ -45,12 +45,19 @@ social:
   icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dfailing
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/davidfailing/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dfailing
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1580-2546
+  comment: <> (Academicons icon pack https://jpswalsh.github.io/academicons/)
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=_-5HusgAAAAJ
 - icon: facebook
   icon_pack: fab
   label: Friend me on Facebook
@@ -63,21 +70,14 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/david_failing
-- icon: goodreads
-  icon_pack: fab
-  label: Read with me on Goodreads
-  link: https://www.goodreads.com/user/show/8068014-david-failing
 - icon: strava
   icon_pack: fab
   label: Run with me on Strava
   link: https://www.strava.com/athletes/1989205
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-1580-2546
-  comment: <> (Academicons icon pack https://jpswalsh.github.io/academicons/)
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=_-5HusgAAAAJ
+- icon: goodreads
+  icon_pack: fab
+  label: Read with me on Goodreads
+  link: https://www.goodreads.com/user/show/8068014-david-failing
 
 superuser: true
 title: David Failing
