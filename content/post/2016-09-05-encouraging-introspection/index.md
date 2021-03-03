@@ -33,4 +33,4 @@ What I’m not sure of, at this point, is what to do with the information I get 
 
 What have you done to bring reflective writing into your courses? Have you used a math autobiography or similar assignment? What did you learn about your students, and how (if at all) did you act on that information? Please share your thoughts in the comments – IBL is nothing if not a community of practice, and I hope my posts this semester provide a forum for learning from our collective experience.
 
-(Feel free to download and modify the [TeX](/noviceiblblog/reflections/reflection1assignment.tex) and [PDF](/noviceiblblog/reflections/reflection1assignment.tex) of this reflection as you see fit. If you use it in your courses, send me an email at david.failing at gmail.com and let me know how it goes.)
+(Feel free to download and modify the [TeX](/noviceiblblog/reflections/reflection1assignment.tex) and [PDF](/noviceiblblog/reflections/reflection1assignment.pdf) of this reflection as you see fit. If you use it in your courses, send me an email at david.failing at gmail.com and let me know how it goes.)
