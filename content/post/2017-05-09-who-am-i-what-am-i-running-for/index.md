@@ -7,7 +7,7 @@ authors:
 categories: [guest post]
 tags: []
 subtitle: ''
-summary: 'This post first on my old blog, the now-defunct "David Explores Illinois Trails."'
+summary: 'This post first appeared on my old blog, the now-defunct "David Explores Illinois Trails."'
 lastmod: ''
 featured: no
 image:

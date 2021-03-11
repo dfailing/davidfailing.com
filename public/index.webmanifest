@@ -2,8 +2,8 @@
   "name": "David Failing",
   "short_name": "David Failing",
   "lang": "en-us",
-  "theme_color": "#795548",
-  "background_color": "#795548",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
     "src": "/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

@@ -6,7 +6,7 @@ authors:
 event: AMS Central Section Meeting
 event_url: https://www.ams.org/meetings/sectional/2195_program.html
 location: Iowa State University
-summary: A talk about groupoid classification at the Fall 2013 AMS Central Section Meeting
+summary: A talk about groupoid classification at the Fall 2013 AMS Central Section Meeting.
 
 # Talk start and end times
 date: "2013-04-28T08:30:00Z"

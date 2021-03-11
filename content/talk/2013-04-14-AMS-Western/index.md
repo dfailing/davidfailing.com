@@ -10,7 +10,7 @@ author_notes:
 event: AMS Western Section Meeting
 event_url: https://www.ams.org/meetings/sectional/2210_program.html
 location: University of Colorado
-summary: A talk about groupoids and the CSP at the Fall 2013 AMS Western Section Meeting
+summary: A talk about groupoids and the CSP at the Fall 2013 AMS Western Section Meeting.
 
 # Talk start and end times
 date: "2013-04-14T09:30:00Z"

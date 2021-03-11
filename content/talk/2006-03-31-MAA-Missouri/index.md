@@ -6,7 +6,7 @@ authors:
 event: MAA Missouri Section Meeting
 event_url: 
 location: University of Missouri - Columbia
-summary: MAA Section Meeting talk about work I did during the 2005 Truman State University STEP Program REU
+summary: MAA Section Meeting talk about work I did during the 2005 Truman State University STEP Program REU.
 
 # Talk start and end times
 date: "2006-03-31"

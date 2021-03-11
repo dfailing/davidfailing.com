@@ -23,7 +23,7 @@ projects: []
 This post first appeared at the collaborative site [A Novice IBL Blog](https://noviceiblblog.wordpress.com/2016/11/08/david-grace-in-the-struggle/).
 {{% /callout %}}
 
->"When every day seems the same, it is because we have stopped noticing the good things that appear in our lives.""
+>"When every day seems the same, it is because we have stopped noticing the good things that appear in our lives."
 
 One of my students shared this quote from Paulo Coelho as part of her reflection on ["The Lesson of Grace in Teaching"](http://mathyawp.blogspot.com/2013/01/the-lesson-of-grace-in-teaching.html), the MAA Haimo Teaching Award Lecture (subsequently shared as a blog post) given by Francis Su at the AMS/MAA Joint Math Meetings on January 11, 2013. At this point in the semester, it can be easy for faculty and students alike to feel overwhelmed, overworked, and potentially [burned out](https://www.chronicle.com/article/the-40-year-old-burnout/). We may have tried something new in the classroom (a first foray into IBL, or a tweak to an old standby activity) and had it fail miserably. Our students might have bombed their midterm despite feeling like they've worked their absolute hardest in the first half of the semester. It might feel like these failures are judgements of our worth, but we shouldn't lose sight of the good things taking place in our classrooms.
 

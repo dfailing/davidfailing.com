@@ -6,7 +6,7 @@ authors:
 event: MAKO Undergraduate Mathematics Research Conference
 event_url: https://math.missouristate.edu/MAKOConference2005.htm
 location: Missouri State University
-summary: An undergraduate-focused conference talk about work I did during the 2005 Truman State University STEP Program REU
+summary: An undergraduate-focused conference talk about work I did during the 2005 Truman State University STEP Program REU.
 
 # Talk start and end times
 date: "2005-11-12T14:00:00Z"
