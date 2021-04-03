@@ -8,7 +8,7 @@ categories:
   - podcast
 tags: []
 subtitle: ''
-summary: "This podcast first appeared at Lift Heavy Run Long in July 2017."
+summary: "This podcast first appeared at Ten Junk Miles in June 2017."
 lastmod: '2017-06-02'
 featured: no
 image:
