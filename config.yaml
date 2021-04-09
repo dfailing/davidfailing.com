@@ -24,7 +24,7 @@ ignoreFiles:
 permalinks:
   authors: /author/:slug/
   categories: /category/:slug/
-  event: /talk/:slug/
+  talk: /talk/:year/:month/:day/:slug/
   post: /:year/:month/:day/:slug/ # Changed this. Delete if broken
   publication_types: /publication-type/:slug/
   tags: /tag/:slug/

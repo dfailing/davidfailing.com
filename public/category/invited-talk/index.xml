@@ -14,27 +14,27 @@
     
     <item>
       <title>Go Forth and Multiply</title>
-      <link>/talk/2019-04-17-tsu-mtcs/</link>
+      <link>/talk/2019/04/17/go-forth-and-multiply/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/2019-04-17-tsu-mtcs/</guid>
+      <guid>/talk/2019/04/17/go-forth-and-multiply/</guid>
       <description>&lt;p&gt;I spoke to math and computer science students about how my interdisciplinary undergraduate experience helped me have a better graduate school experience, and build a career as a mathematics faculty member.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>I&#39;m PHRE To Do What I Want</title>
-      <link>/talk/2019-02-21-phre-seminar/</link>
+      <link>/talk/2019/02/21/im-phre-to-do-what-i-want/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/2019-02-21-phre-seminar/</guid>
+      <guid>/talk/2019/02/21/im-phre-to-do-what-i-want/</guid>
       <description>&lt;p&gt;I spoke to PHRE 475 Senior Seminar students about how my interdisciplinary undergraduate experience helped me have a better graduate school experience, and build a career as a mathematics faculty member.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computer-Aided Investigation of Abstract Algebras (Or, The Computer Solved My Thesis Problem...)</title>
-      <link>/talk/2013-03-21-mtcs/</link>
+      <link>/talk/2013/03/21/computer-aided-investigation-of-abstract-algebras-or-the-computer-solved-my-thesis-problem.../</link>
       <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/2013-03-21-mtcs/</guid>
+      <guid>/talk/2013/03/21/computer-aided-investigation-of-abstract-algebras-or-the-computer-solved-my-thesis-problem.../</guid>
       <description>&lt;p&gt;Abstract Algebra is the study of axiomatically defined structures arising from concrete objects, with the aim of establishing properties of those objects. Universal Algebra, loosely construed, is the study of axiom systems for their own sake (e.g. the theory of groups). With the help of automated reasoning tools like Prover9/Mace 4 and the Universal Algebra calculator, we may rapidly generate structures which satisfy a system of axioms, or make (and test) conjectures about the axioms. The talk will be particularly accessible to students currently enrolled in Math 200 and beyond, and possible topics for future undergraduate research will be discussed.&lt;/p&gt;
 </description>
     </item>

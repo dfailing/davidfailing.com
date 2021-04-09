@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>David Failing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Fri, 09 Apr 2021 13:17:04 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
       <title>David Failing</title>
@@ -29,10 +29,28 @@
     </item>
     
     <item>
+      <title>Dust-SHP</title>
+      <link>/project/dust-shp/</link>
+      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
+      <guid>/project/dust-shp/</guid>
+      <description>&lt;p&gt;This repository contains code used to replicate the analysis carried out in Kandakji et al. 2020 (&lt;a href=&#34;https://doi.org/10.1016/j.geomorph.2019.107019),&#34;&gt;https://doi.org/10.1016/j.geomorph.2019.107019),&lt;/a&gt; and will eventually be used to produce a similar analysis on the Colorado Plateau.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GrandR</title>
+      <link>/project/grandr/</link>
+      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
+      <guid>/project/grandr/</guid>
+      <description>&lt;p&gt;An analysis of backcountry area use at Grand Canyon National Park, using publicly available tabular and geospatial data, to assess the accuracy of the National Park Service&amp;rsquo;s classification of those areas as corridor, threshold, primitive, or wild.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Go Forth and Multiply</title>
-      <link>/talk/2019-04-17-tsu-mtcs/</link>
+      <link>/talk/2019/04/17/go-forth-and-multiply/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/2019-04-17-tsu-mtcs/</guid>
+      <guid>/talk/2019/04/17/go-forth-and-multiply/</guid>
       <description>&lt;p&gt;I spoke to math and computer science students about how my interdisciplinary undergraduate experience helped me have a better graduate school experience, and build a career as a mathematics faculty member.&lt;/p&gt;
 </description>
     </item>
@@ -66,9 +84,9 @@ Lewis University  &lt;br/&gt;
     
     <item>
       <title>I&#39;m PHRE To Do What I Want</title>
-      <link>/talk/2019-02-21-phre-seminar/</link>
+      <link>/talk/2019/02/21/im-phre-to-do-what-i-want/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/talk/2019-02-21-phre-seminar/</guid>
+      <guid>/talk/2019/02/21/im-phre-to-do-what-i-want/</guid>
       <description>&lt;p&gt;I spoke to PHRE 475 Senior Seminar students about how my interdisciplinary undergraduate experience helped me have a better graduate school experience, and build a career as a mathematics faculty member.&lt;/p&gt;
 </description>
     </item>
@@ -234,27 +252,6 @@ Fall 2017 Linear Algebra Student&lt;/p&gt;
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/projects/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/projects/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/projects/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/projects/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Many Voices Are Greater Than One</title>
       <link>/2015/10/12/many-voices-are-greater-than-one/</link>
       <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
@@ -332,18 +329,18 @@ How do we bridge the gap between where we want our students to be and where they
     
     <item>
       <title>PhD Defense: Commutative, Idempotent Groupoids and The Constraint Satisfaction Problem</title>
-      <link>/talk/2013-07-05-phd-defense/</link>
+      <link>/talk/2013/07/05/phd-defense-commutative-idempotent-groupoids-and-the-constraint-satisfaction-problem/</link>
       <pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/2013-07-05-phd-defense/</guid>
+      <guid>/talk/2013/07/05/phd-defense-commutative-idempotent-groupoids-and-the-constraint-satisfaction-problem/</guid>
       <description>&lt;p&gt;Come eat some free food, learn what all the words in the event title mean, and offer moral support! After 5 long years at Iowa State, it&amp;rsquo;s time to graduate so that I can move on to&amp;hellip; more graduate school!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Structure Theory of CI-Groupoids of Bol-Moufang Type</title>
-      <link>/talk/2013-04-28-ams-central/</link>
+      <link>/talk/2013/04/28/structure-theory-of-ci-groupoids-of-bol-moufang-type/</link>
       <pubDate>Sun, 28 Apr 2013 08:30:00 +0000</pubDate>
-      <guid>/talk/2013-04-28-ams-central/</guid>
+      <guid>/talk/2013/04/28/structure-theory-of-ci-groupoids-of-bol-moufang-type/</guid>
       <description>&lt;p&gt;A groupoid identity $p \approx q$ is of Bol-Moufang type if (i) the same 3 variables appear in $p$ and $q$, (ii) one of the variables appears twice in $p$ and $q$, (iii) the remaining two variables appear once in $p$ and $q$, and (iv) the variables appear in the same order in $p$ and $q$. Phillips and Vojtechovsky studied quasigroup and loop varieties defined by one additional identity of Bol-Moufang type, showing that there are exactly 26 and 14 such varieties, respectively.&lt;/p&gt;
 &lt;p&gt;Aided by Prover9/Mace4 and the Universal Algebra Calculator, we show that there are exactly eight varieties of commutative, idempotent groupoids defined by one additional identity of Bol-Moufang type. Five of them are congruence meet-semidistributive. We investigate the structure of the variety of commutative, idempotent groupoids satisfying $x(x(yz)) \approx (x(xy))z$, and show that it is the regularization of the variety of squags. We also show that every finite commutative, idempotent, distributive groupoid is a Plonka sum of quasigroups.&lt;/p&gt;
 </description>
@@ -351,9 +348,9 @@ How do we bridge the gap between where we want our students to be and where they
     
     <item>
       <title>CSP for Commutative, Idempotent Groupoids</title>
-      <link>/talk/2013-04-14-ams-western/</link>
+      <link>/talk/2013/04/14/csp-for-commutative-idempotent-groupoids/</link>
       <pubDate>Sun, 14 Apr 2013 09:30:00 +0000</pubDate>
-      <guid>/talk/2013-04-14-ams-western/</guid>
+      <guid>/talk/2013/04/14/csp-for-commutative-idempotent-groupoids/</guid>
       <description>&lt;p&gt;A theorem of Bulatov, Jeavons and Krokhin states that when the algebra associated with a core template does not lie in a Taylor variety, then the CSP for that template is NP-complete. In the same paper, the authors conjecture that in all other cases, the corresponding CSP is solvable in polynomial time. Maroti and McKenzie showed that an algebra generates a Taylor variety if and only if it has a $k$-ary weak near-unanimity (WNU) operation for some $k$; this shifts the search for a proof of the algebraic dichotomy conjecture to focus on WNU operations.&lt;/p&gt;
 &lt;p&gt;A binary operation is a WNU precisely if it is commutative and idempotent, and a semilattice operation is known to be sufficient for the tractability of an algebra. Using Prover9 and the Universal Algebra Calculator, we investigate several weakenings of associativity and show that they too are sufficient for the tractability of a finite commutative, idempotent groupoid. In particular a finite CI-groupoid has a tractable CSP if it satisfies any of the following identities: $x(y(xz)) \approx x((yx)z)$, $x(y(yz)) \approx ((xy)y)z$, $x(yz) \approx (xy)(xz)$. A key tool is the theory of Plonka sums. Roughly speaking, we prove that a finite Plonka sum of finite algebras lying in a tractable variety is tractable.&lt;/p&gt;
 </description>
@@ -361,36 +358,36 @@ How do we bridge the gap between where we want our students to be and where they
     
     <item>
       <title>Computer-Aided Investigation of Abstract Algebras (Or, The Computer Solved My Thesis Problem...)</title>
-      <link>/talk/2013-03-21-mtcs/</link>
+      <link>/talk/2013/03/21/computer-aided-investigation-of-abstract-algebras-or-the-computer-solved-my-thesis-problem.../</link>
       <pubDate>Thu, 21 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>/talk/2013-03-21-mtcs/</guid>
+      <guid>/talk/2013/03/21/computer-aided-investigation-of-abstract-algebras-or-the-computer-solved-my-thesis-problem.../</guid>
       <description>&lt;p&gt;Abstract Algebra is the study of axiomatically defined structures arising from concrete objects, with the aim of establishing properties of those objects. Universal Algebra, loosely construed, is the study of axiom systems for their own sake (e.g. the theory of groups). With the help of automated reasoning tools like Prover9/Mace 4 and the Universal Algebra calculator, we may rapidly generate structures which satisfy a system of axioms, or make (and test) conjectures about the axioms. The talk will be particularly accessible to students currently enrolled in Math 200 and beyond, and possible topics for future undergraduate research will be discussed.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD Prelim: Constraint Satisfaction Problems On Bol-Moufang CI-Groupoids</title>
-      <link>/talk/2012-09-20-phd-prelim/</link>
+      <link>/talk/2012/09/20/phd-prelim-constraint-satisfaction-problems-on-bol-moufang-ci-groupoids/</link>
       <pubDate>Thu, 20 Sep 2012 13:00:00 +0000</pubDate>
-      <guid>/talk/2012-09-20-phd-prelim/</guid>
+      <guid>/talk/2012/09/20/phd-prelim-constraint-satisfaction-problems-on-bol-moufang-ci-groupoids/</guid>
       <description>&lt;p&gt;Come listen to me talk about Constraint Satisfaction Problems and Bol-Moufang Groupoids! Or come heckle me from the back row! Or, just come and eat tasty snacks!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Affinely self-generating sets and substitution sequences</title>
-      <link>/talk/2008-12-01-isu-seminar/</link>
+      <link>/talk/2008/12/01/affinely-self-generating-sets-and-substitution-sequences/</link>
       <pubDate>Mon, 01 Dec 2008 15:00:00 +0000</pubDate>
-      <guid>/talk/2008-12-01-isu-seminar/</guid>
+      <guid>/talk/2008/12/01/affinely-self-generating-sets-and-substitution-sequences/</guid>
       <description>&lt;p&gt;Kimberling defined a self-generating set $S$ of integers as follows: 1 is a member of $S$, and if $x$ is a member of $S$, then $2x$ and $4x - 1$ are in $S$. Nothing else is in $S$. As an REU project, I investigated several interesting properties of the Kimberling set, and its resulting sequences reduced modulo  m  - particularly the case  m  = 2, which yields the Fibonacci word. &lt;a href=&#34;https://cs.uwaterloo.ca/journals/JIS/VOL10/Garth/garth14.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Garth and Gouge (2007)&lt;/a&gt; proved not only that any of a special class of affinely self-generating sets of integers reduced modulo $m$may be generated by a substitution morphism, but also its characteristic sequence, which turns out to be automatic. The talk will be introductory in nature, and will also discuss some of the open questions posed by Garth and Gouge.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Self-Generating Sets, Missing Blocks, and Substitutions</title>
-      <link>/talk/2006-03-31-maa-missouri/</link>
+      <link>/talk/2006/03/31/self-generating-sets-missing-blocks-and-substitutions/</link>
       <pubDate>Fri, 31 Mar 2006 00:00:00 +0000</pubDate>
-      <guid>/talk/2006-03-31-maa-missouri/</guid>
+      <guid>/talk/2006/03/31/self-generating-sets-missing-blocks-and-substitutions/</guid>
       <description>&lt;p&gt;We generalize the result of Allouche, Shallit, and Skordev regarding the Kimberling sequence, defined by:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;$1$ belongs to $S$;&lt;/li&gt;
@@ -404,9 +401,9 @@ How do we bridge the gap between where we want our students to be and where they
     
     <item>
       <title>Self-Generating Sets, Missing Blocks, and Substitutions</title>
-      <link>/talk/2005-11-12-mako/</link>
+      <link>/talk/2005/11/12/self-generating-sets-missing-blocks-and-substitutions/</link>
       <pubDate>Sat, 12 Nov 2005 14:00:00 +0000</pubDate>
-      <guid>/talk/2005-11-12-mako/</guid>
+      <guid>/talk/2005/11/12/self-generating-sets-missing-blocks-and-substitutions/</guid>
       <description>&lt;p&gt;We generalize the result of Allouche, Shallit, and Skordev regarding the Kimberling sequence, defined by:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;$1$ belongs to $S$;&lt;/li&gt;
@@ -423,6 +420,22 @@ How do we bridge the gap between where we want our students to be and where they
       <link>/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Tutoring</title>
+      <link>/tutoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tutoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
       <description></description>
     </item>
     

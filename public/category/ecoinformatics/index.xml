@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecoinformatics | David Failing</title>
+    <link>/category/ecoinformatics/</link>
+      <atom:link href="/category/ecoinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>ecoinformatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Fri, 09 Apr 2021 13:17:04 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
+      <title>ecoinformatics</title>
+      <link>/category/ecoinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Dust-SHP</title>
+      <link>/project/dust-shp/</link>
+      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
+      <guid>/project/dust-shp/</guid>
+      <description>&lt;p&gt;This repository contains code used to replicate the analysis carried out in Kandakji et al. 2020 (&lt;a href=&#34;https://doi.org/10.1016/j.geomorph.2019.107019),&#34;&gt;https://doi.org/10.1016/j.geomorph.2019.107019),&lt;/a&gt; and will eventually be used to produce a similar analysis on the Colorado Plateau.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

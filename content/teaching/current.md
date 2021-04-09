@@ -42,4 +42,4 @@ item:
   certificate_url: # Always leave blank - produces "See certificate"
 ---
 
-I am currently an instructor at Coconino Community College and a graduate teaching assistant at Northern Arizona University. 
+I am currently an instructor at Coconino Community College and a graduate teaching assistant at Northern Arizona University. I am also available for [private tutoring]({{< ref "/tutoring" >}}) (including for most mathematics and statistics courses at CCC and NAU) - click through to see a list, or contact me at david.failing@gmail.com to discuss rates.

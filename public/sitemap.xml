@@ -6,22 +6,40 @@
   </url><url>
     <loc>/cv/accomplishments/</loc>
   </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
   </url><url>
     <loc>/author/david-failing/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
   </url><url>
-    <loc>/talk/2019-04-17-tsu-mtcs/</loc>
+    <loc>/project/dust-shp/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/category/ecoinformatics/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/project/grandr/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/category/personal/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/tag/r/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/talk/2019/04/17/go-forth-and-multiply/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/invited-talk/</loc>
@@ -39,7 +57,7 @@
     <loc>/category/guest-post/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2019-02-21-phre-seminar/</loc>
+    <loc>/talk/2019/02/21/im-phre-to-do-what-i-want/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/2018/04/10/interview-professor-david-failing-lewis-university/</loc>
@@ -65,21 +83,6 @@
   </url><url>
     <loc>/2016/09/05/encouraging-introspection/</loc>
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/projects/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/liza-cope/</loc>
     <lastmod>2015-10-12T00:00:00+00:00</lastmod>
@@ -150,7 +153,7 @@
     <loc>/tag/mathematics/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2013-07-05-phd-defense/</loc>
+    <loc>/talk/2013/07/05/phd-defense-commutative-idempotent-groupoids-and-the-constraint-satisfaction-problem/</loc>
     <lastmod>2013-07-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/category/seminar/</loc>
@@ -162,30 +165,34 @@
     <loc>/category/conference-talk/</loc>
     <lastmod>2013-04-28T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2013-04-28-ams-central/</loc>
+    <loc>/talk/2013/04/28/structure-theory-of-ci-groupoids-of-bol-moufang-type/</loc>
     <lastmod>2013-04-28T08:30:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2013-04-14-ams-western/</loc>
+    <loc>/talk/2013/04/14/csp-for-commutative-idempotent-groupoids/</loc>
     <lastmod>2013-04-14T09:30:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2013-03-21-mtcs/</loc>
+    <loc>/talk/2013/03/21/computer-aided-investigation-of-abstract-algebras-or-the-computer-solved-my-thesis-problem.../</loc>
     <lastmod>2013-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2012-09-20-phd-prelim/</loc>
+    <loc>/talk/2012/09/20/phd-prelim-constraint-satisfaction-problems-on-bol-moufang-ci-groupoids/</loc>
     <lastmod>2012-09-20T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2008-12-01-isu-seminar/</loc>
+    <loc>/talk/2008/12/01/affinely-self-generating-sets-and-substitution-sequences/</loc>
     <lastmod>2008-12-01T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2006-03-31-maa-missouri/</loc>
+    <loc>/talk/2006/03/31/self-generating-sets-missing-blocks-and-substitutions/</loc>
     <lastmod>2006-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2005-11-12-mako/</loc>
+    <loc>/talk/2005/11/12/self-generating-sets-missing-blocks-and-substitutions/</loc>
     <lastmod>2005-11-12T14:00:00+00:00</lastmod>
   </url><url>
     <loc>/cv/</loc>
   </url><url>
     <loc>/courses/</loc>
+  </url><url>
+    <loc>/tutoring/</loc>
+  </url><url>
+    <loc>/projects/</loc>
   </url><url>
     <loc>/research/</loc>
   </url><url>
