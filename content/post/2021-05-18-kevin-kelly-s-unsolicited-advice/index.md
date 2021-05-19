@@ -19,9 +19,9 @@ image:
 projects: []
 ---
 
-On the occasion of his [68th](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) and [69th](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) birthdays, technologist Kevin Kelly posted compendia of his favorite "pithy bits of unsolicited advice," and I thought I'd call out my favorites from the two lists. Click through above to find your own favorites.
+On the occasions of his [68th](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) and [69th](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/) birthdays, technologist Kevin Kelly posted compendia of his favorite "pithy bits of unsolicited advice," and I thought I'd call out my favorites from the two lists. Click through above to find your own favorites.
 
-* "... learn from those you diagree with..."
+* "... learn from those you disagree with..."
 * "... A deadline weeds out the extraneous and the ordinary. It prevents you from trying to make it perfect, so you have to make it different. Different is better."
 * "While listening to someone you love keep asking them `Is there more?`, until there is no more."
 * "Rule of 3 in conversation. To get to the real reason, ask a person to go deeper than what they just said. Then again, and once more. The third time's answer is close to the truth."
