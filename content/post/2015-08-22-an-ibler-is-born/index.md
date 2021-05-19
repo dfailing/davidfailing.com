@@ -21,7 +21,7 @@ projects: []
 <!-- This post first appeared at High Country News and is republished here with permission.-->
 {{% callout note %}}
 This post first appeared at the collaborative site [A Novice IBL Blog](https://noviceiblblog.wordpress.com/2015/08/22/18/).
-{{% /callout %}}
+{{% /callout %}}~
 
 Every good blog needs an origin story. So, before I start sharing my struggles and successes in adopting an Inquiry Based Learning approach to my courses, I thought it best to back up a little.
 

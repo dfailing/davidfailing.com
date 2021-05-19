@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>personal | David Failing</title>
-    <link>/category/personal/</link>
-      <atom:link href="/category/personal/index.xml" rel="self" type="application/rss+xml" />
-    <description>personal</description>
+    <title>advice | David Failing</title>
+    <link>/tag/advice/</link>
+      <atom:link href="/tag/advice/index.xml" rel="self" type="application/rss+xml" />
+    <description>advice</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2021</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
-      <title>personal</title>
-      <link>/category/personal/</link>
+      <title>advice</title>
+      <link>/tag/advice/</link>
     </image>
     
     <item>
@@ -46,15 +46,6 @@
 &lt;li&gt;&amp;ldquo;Don&amp;rsquo;t let your email inbox become your to do list.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;Advice like these are not laws. They are like hats. If one doesn&amp;rsquo;t fit, try&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GrandR</title>
-      <link>/project/grandr/</link>
-      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
-      <guid>/project/grandr/</guid>
-      <description>&lt;p&gt;An analysis of backcountry area use at Grand Canyon National Park, using publicly available tabular and geospatial data, to assess the accuracy of the National Park Service&amp;rsquo;s classification of those areas as corridor, threshold, primitive, or wild.&lt;/p&gt;
 </description>
     </item>
     
