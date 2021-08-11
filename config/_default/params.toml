@@ -113,7 +113,7 @@ contact_links = [
   {icon = "facebook-messenger", icon_pack = "fab", name = "FB Message", link = "https://m.me/davidfailing"},
   {icon = "phone", icon_pack = "fa", name = "630-939-0691", link = "tel:6309390691"},
   {icon = "home", icon_pack = "fa", name = "Flagstaff, AZ", link = ""},
-  {icon = "building", icon_pack = "fa", name = "NAU - SICCS", link = "https://nau.edu/school-of-informatics-computing-and-cyber-systems/"}
+  #{icon = "building", icon_pack = "fa", name = "NAU - SICCS", link = "https://nau.edu/school-of-informatics-computing-and-cyber-systems/"}
   #{icon = "link", icon_pack = "fa", name = "Website", link = "http://www.davidfailing.com" }
   ]
 
@@ -261,10 +261,10 @@ plugins_js  = []
   #   "google": Google Maps
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
-  provider = "google"
-  engine = 1
-  api_key = "AIzaSyBnD0ZcrcGu0_f8coX6Dw6oLfrImQdrQEw"
-  zoom = 17
+  #provider = "google"
+  #engine = 1
+  #api_key = "AIzaSyBnD0ZcrcGu0_f8coX6Dw6oLfrImQdrQEw"
+  #zoom = 17
 
 ############################
 ## Marketing
