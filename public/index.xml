@@ -66,20 +66,20 @@
     </item>
     
     <item>
-      <title>Dust-SHP</title>
-      <link>/project/dust-shp/</link>
-      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
-      <guid>/project/dust-shp/</guid>
-      <description>&lt;p&gt;This repository contains code used to replicate the analysis carried out in Kandakji et al. 2020 (&lt;a href=&#34;https://doi.org/10.1016/j.geomorph.2019.107019),&#34;&gt;https://doi.org/10.1016/j.geomorph.2019.107019),&lt;/a&gt; and will eventually be used to produce a similar analysis on the Colorado Plateau.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>GrandR</title>
       <link>/project/grandr/</link>
       <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
       <guid>/project/grandr/</guid>
       <description>&lt;p&gt;An analysis of backcountry area use at Grand Canyon National Park, using publicly available tabular and geospatial data, to assess the accuracy of the National Park Service&amp;rsquo;s classification of those areas as corridor, threshold, primitive, or wild.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dust-SHP</title>
+      <link>/project/dust-shp/</link>
+      <pubDate>Thu, 08 Apr 2021 13:17:04 -0700</pubDate>
+      <guid>/project/dust-shp/</guid>
+      <description>&lt;p&gt;This repository contains code used to replicate the analysis carried out in Kandakji et al. 2020 (&lt;a href=&#34;https://doi.org/10.1016/j.geomorph.2019.107019),&#34;&gt;https://doi.org/10.1016/j.geomorph.2019.107019),&lt;/a&gt; and will eventually be used to produce a similar analysis on the Colorado Plateau.&lt;/p&gt;
 </description>
     </item>
     

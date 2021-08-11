@@ -33,12 +33,6 @@
     <loc>/tags/</loc>
     <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/dust-shp/</loc>
-    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
-  </url><url>
-    <loc>/category/ecoinformatics/</loc>
-    <lastmod>2021-04-09T13:17:04-07:00</lastmod>
-  </url><url>
     <loc>/project/grandr/</loc>
     <lastmod>2021-04-09T13:17:04-07:00</lastmod>
   </url><url>
@@ -47,6 +41,12 @@
   </url><url>
     <loc>/tag/r/</loc>
     <lastmod>2021-04-09T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/project/dust-shp/</loc>
+    <lastmod>2021-04-08T13:17:04-07:00</lastmod>
+  </url><url>
+    <loc>/category/ecoinformatics/</loc>
+    <lastmod>2021-04-08T13:17:04-07:00</lastmod>
   </url><url>
     <loc>/talk/2019/04/17/go-forth-and-multiply/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>

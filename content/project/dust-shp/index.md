@@ -5,7 +5,7 @@ authors:
   - david
 summary: 'Replicated analysis of point sources of dust in the Southern High Plains by Kandakji et al.'
 abstract: ""
-date: '2021-04-09T13:17:04-07:00'
+date: '2021-04-08T13:17:04-07:00'
 image:
   caption: ''
   focal_point: ''
