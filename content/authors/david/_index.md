@@ -94,7 +94,7 @@ I have transitioned to consulting roles as a data scientist and educational cont
 
 I also teach mathematics part-time at [Coconino Community College](https://www.coconino.edu/), and offer [private tutoring]({{< ref "/tutoring" >}}) in mathematics and statistics. 
 
-My other passions include trail and ultra running, reading (public lands, conservation, and quirky fiction, among other topics), bicycling, and baking bread.
+My other passions include trail and ultra running, reading (public lands, conservation, and quirky fiction, among other topics), bicycling, and baking sourdough bread.
 
 <!--I am also a PhD student in [Ecological and Environmental Informatics](https://ecoinfo.nau.edu/) at [Northern Arizona University](https://www.nau.edu), where I am a member of the [Paleoclimate Dynamics Lab](https://www.cefns.nau.edu/~npm4/). My current research involves environmental modeling of dust point sources related to land use and geomorphology.-->
 
