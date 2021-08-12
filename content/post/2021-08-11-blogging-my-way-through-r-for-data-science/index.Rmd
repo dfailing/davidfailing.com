@@ -21,9 +21,9 @@ image:
 projects: []
 ---
 
-[R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund is a go-to resource for the data-curious who want to learn R and the tidyverse by curling up with a good book. After spending the summer interning on Garrett's RStudio Academy team, I wanted to brush up on my basics (and pick up skills I have been otherwise missing), so what better way than to methodically work my way through the text? And what better way to hold myself accountable than to blog about it, and put my progress out into the [#rstats](https://twitter.com/hashtag/rstats) community to get feedback and encouragement.
+[R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund is a go-to resource for the data-curious who want to learn R and the tidyverse by curling up with a good book. After spending the summer interning on Garrett's RStudio Academy team, I wanted to brush up on my basics (and pick up skills I have otherwise been missing), so what better way than to methodically work my way through the text? And what better way to hold myself accountable than to blog about it, and put my progress out into the [#rstats](https://twitter.com/hashtag/rstats) community to get feedback and encouragement.
 
-Resources for those studying from R4DS are numerous already: There are [crowdsourced solutions manuals](https://jrnold.github.io/r4ds-exercise-solutions/) and even a vibrant R4DS community on [Twitter](https://twitter.com/R4DScommunity) and [Slack](https://www.rfordatasci.com/). With that in mind, what can I possibly offer that _isn't_ just another reproduction of the book's analyses of the `nycflights`, `gapminder`, and other standard data sets?
+Resources for those studying from R4DS are numerous already. There are [crowdsourced solutions manuals](https://jrnold.github.io/r4ds-exercise-solutions/), and even a vibrant R4DS community on [Twitter](https://twitter.com/R4DScommunity) and [Slack](https://www.rfordatasci.com/). With that in mind, what can I possibly offer that _isn't_ just another reproduction of the book's analyses of the `nycflights`, `gapminder`, and other standard data sets?
 
 One of the strengths that I recognized immediately in the book's introduction is its emphasis on _workflow_:
 
