@@ -38,3 +38,12 @@ _Bingo_. That's my focus - as I progress through the book chapter-by-chapter, I'
 ```{r echo = FALSE, fig.alt = "Map of Backcountry Use Areas and Classifications at Grand Canyon National Park", out.width="500px"}
 knitr::include_graphics("images/GRCA-Backcountry.png")
 ```
+
+<script src="https://utteranc.es/client.js"
+        repo="dfailing/davidfailing.com"
+        issue-term="title"
+        label="Blog 💬"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
