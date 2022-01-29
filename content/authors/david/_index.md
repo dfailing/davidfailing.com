@@ -21,23 +21,21 @@ education:
 email: "david.failing@gmail.com"
 highlight_name: true
 interests:
-- Data Science Education
+- Data Science
 - R Programming
-#- Environmental Informatics
 - Universal Algebra
 #- Commutative, Idempotent Groupoids
 #- Automated Deduction
-- Inquiry-Based Learning
+#- Inquiry-Based Learning
+- Breadmaking
 - Trail and ultra running
 organizations:
-#- name: Northern Arizona University
-#  url: http://www.nau.edu/
-#- name: RStudio PBC
-#  url: http://www.rstudio.com
+#- name: InsideTracker
+#  url: https://www.insidetracker.com
 #- name: Coconino Community College
 #  url: http://www.coconino.edu
 role: |-
-      Data Science Educator and Contractor
+      Senior Data Scientist and Consultant
       
       Mathematics Instructor
 
@@ -90,12 +88,10 @@ superuser: true
 title: David Failing
 ---
 
-I have transitioned to consulting roles as a data scientist and educational content author, following six years as a tenure-track mathematics professor. Currently, I am a Data Science Educator at [RStudio](http://https://www.rstudio.com/), authoring educational content and mentoring small groups of novice R users in an accelerated, project based short-course format.
+I am a Senior Data Scientist at [InsideTracker](https://www.insidetracker.com/), working with data from blood, DNA and wearables to derive insights that help our users live longer, healthier lives. I am open to freelance/consulting work as a data scientist and educational content author in mathematics and data science.
 
 I also teach mathematics part-time at [Coconino Community College](https://www.coconino.edu/), and offer [private tutoring]({{< ref "/tutoring" >}}) in mathematics and statistics. 
 
 My other passions include trail and ultra running, reading (public lands, conservation, and quirky fiction, among other topics), bicycling, and baking bread.
-
-<!--I am also a PhD student in [Ecological and Environmental Informatics](https://ecoinfo.nau.edu/) at [Northern Arizona University](https://www.nau.edu), where I am a member of the [Paleoclimate Dynamics Lab](https://www.cefns.nau.edu/~npm4/). My current research involves environmental modeling of dust point sources related to land use and geomorphology.-->
 
 <!--{ {< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}. -->
