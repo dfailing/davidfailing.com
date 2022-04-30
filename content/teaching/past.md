@@ -25,7 +25,7 @@ date_format: Jan 2006
 
 item:
 - date_start: "2020-06-27" # Required
-  date_end: "2021-12-31"
+  date_end: "2021-05-31"
   title: Coconino Community College # Required
   url: https://www.coconino.edu # Links course title
   organization: " " # Required
