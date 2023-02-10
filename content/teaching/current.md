@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Summer 2022'
+title: 'Summer 2023'
 subtitle:
 
 # Date format
@@ -23,23 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_start: "2022-06-01" # Required
-  date_end: "2022-08-01"
+- date_start: "2023-06-01" # Required
+  date_end: "2023-08-01"
   title: MAT 140 - College Mathematics with Algebra Review # Required
   url: # Links course title
   organization: Coconino Community College # Required
   organization_url: https://www.coconino.edu # Links organization
   description: # Indented within block
   certificate_url: # Always leave blank - produces "See certificate"
-  
-# - date_start: "2021-01-01" # Required
-#   date_end: "2021-05-01"
-#   title: CS 486 - Capstone Design # Required
+# item:
+# - date_start: "2023-08-20" # Required
+#   date_end: "2023-12-11"
+#   title: MAT 160 - Introduction to Statistics # Required
 #   url: # Links course title
-#   organization: Northern Arizona University # Required
-#   organization_url: https://www.nau.edu # Links organization
+#   organization: Coconino Community College # Required
+#   organization_url: https://www.coconino.edu # Links organization
 #   description: # Indented within block
 #   certificate_url: # Always leave blank - produces "See certificate"
+#   
 ---
 
 I am currently an instructor at Coconino Community College<!--and a graduate teaching assistant at Northern Arizona University-->. I am also available for [private tutoring]({{< ref "/tutoring" >}}) (including for most mathematics and statistics courses at CCC and NAU) - click through to see a list, or contact me at david.failing@gmail.com to discuss rates.
