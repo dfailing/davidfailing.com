@@ -88,7 +88,7 @@ superuser: true
 title: David Failing
 ---
 
-I am Lead Data Scientist at [InsideTracker](https://www.insidetracker.com/), working with data from blood, DNA and wearables to derive insights that help our users live longer, healthier lives. I am open to freelance/consulting work as a data scientist or educational content author in mathematics and data science.
+As Lead Data Scientist at [InsideTracker](https://www.insidetracker.com/), I work with data from blood, DNA and wearables to derive insights that help our users live longer, healthier lives. I am open to freelance/consulting work as a data scientist or educational content author in mathematics and data science.
 
 I also teach mathematics part-time at [Coconino Community College](https://www.coconino.edu/), and offer [private tutoring]({{< ref "/tutoring" >}}) in mathematics and statistics. 
 
