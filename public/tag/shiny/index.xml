@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | David Failing</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Shiny | David Failing</title>
+    <link>/tag/shiny/</link>
+      <atom:link href="/tag/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiny</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2023</copyright><lastBuildDate>Sat, 22 Apr 2023 13:16:40 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Shiny</title>
+      <link>/tag/shiny/</link>
     </image>
     
     <item>
@@ -19,24 +19,6 @@
       <guid>/project/cmar/</guid>
       <description>&lt;p&gt;I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app &lt;a href=&#34;https://runphd.shinyapps.io/CMAR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The code and dataset needed to deploy the application are all in this repository. I update the raw results data every year after the race, generate the formatted CSV files to send to &lt;a href=&#34;https://ultrasignup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UltraSignup&lt;/a&gt;, and submit them.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GrandR</title>
-      <link>/project/grandr/</link>
-      <pubDate>Fri, 09 Apr 2021 13:17:04 -0700</pubDate>
-      <guid>/project/grandr/</guid>
-      <description>&lt;p&gt;An analysis of backcountry area use at Grand Canyon National Park, using publicly available tabular and geospatial data, to assess the accuracy of the National Park Service&amp;rsquo;s classification of those areas as corridor, threshold, primitive, or wild.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dust-SHP</title>
-      <link>/project/dust-shp/</link>
-      <pubDate>Thu, 08 Apr 2021 13:17:04 -0700</pubDate>
-      <guid>/project/dust-shp/</guid>
-      <description>&lt;p&gt;This repository contains code used to replicate the analysis carried out in Kandakji et al. 2020 (&lt;a href=&#34;https://doi.org/10.1016/j.geomorph.2019.107019),&#34;&gt;https://doi.org/10.1016/j.geomorph.2019.107019),&lt;/a&gt; and will eventually be used to produce a similar analysis on the Colorado Plateau.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,22 @@
     <link>/author/david-failing/</link>
       <atom:link href="/author/david-failing/index.xml" rel="self" type="application/rss+xml" />
     <description>David Failing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2023</copyright><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2023</copyright><lastBuildDate>Sat, 22 Apr 2023 13:16:40 +0000</lastBuildDate>
     <image>
       <url>/author/david-failing/avatar_hufa8c6615e4060d829ed29d1196187f83_7063355_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David Failing</title>
       <link>/author/david-failing/</link>
     </image>
+    
+    <item>
+      <title>CMAR Shiny App</title>
+      <link>/project/cmar/</link>
+      <pubDate>Sat, 22 Apr 2023 13:16:40 +0000</pubDate>
+      <guid>/project/cmar/</guid>
+      <description>&lt;p&gt;I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app &lt;a href=&#34;https://runphd.shinyapps.io/CMAR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code and dataset needed to deploy the application are all in this repository. I update the raw results data every year after the race, generate the formatted CSV files to send to &lt;a href=&#34;https://ultrasignup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UltraSignup&lt;/a&gt;, and submit them.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blogging My Way Through R for Data Science</title>

@@ -5,12 +5,22 @@
     <link>/tag/r/</link>
       <atom:link href="/tag/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2023</copyright><lastBuildDate>Fri, 09 Apr 2021 13:17:04 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© David Failing 2023</copyright><lastBuildDate>Sat, 22 Apr 2023 13:16:40 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu2fefdda865d4d5c2e240ee6c853294a4_26624_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
       <link>/tag/r/</link>
     </image>
+    
+    <item>
+      <title>CMAR Shiny App</title>
+      <link>/project/cmar/</link>
+      <pubDate>Sat, 22 Apr 2023 13:16:40 +0000</pubDate>
+      <guid>/project/cmar/</guid>
+      <description>&lt;p&gt;I developed an application using R Shiny that displays results and course records for the Cry Me A River! Trail Runs. You can use the app &lt;a href=&#34;https://runphd.shinyapps.io/CMAR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code and dataset needed to deploy the application are all in this repository. I update the raw results data every year after the race, generate the formatted CSV files to send to &lt;a href=&#34;https://ultrasignup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UltraSignup&lt;/a&gt;, and submit them.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GrandR</title>
