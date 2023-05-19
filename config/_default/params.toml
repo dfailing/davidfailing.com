@@ -112,7 +112,7 @@ appointment_url = ""
 contact_links = [
   {icon = "facebook-messenger", icon_pack = "fab", name = "FB Message", link = "https://m.me/davidfailing"},
   {icon = "phone", icon_pack = "fa", name = "630-939-0691", link = "tel:6309390691"},
-  {icon = "home", icon_pack = "fa", name = "Flagstaff, AZ", link = ""},
+  {icon = "home", icon_pack = "fa", name = "Port Byron, IL", link = "https://www.google.com/maps/place/Port+Byron,+IL+61275/@41.6142372,-90.3427619,14z/"},
   #{icon = "building", icon_pack = "fa", name = "NAU - SICCS", link = "https://nau.edu/school-of-informatics-computing-and-cyber-systems/"}
   #{icon = "link", icon_pack = "fa", name = "Website", link = "http://www.davidfailing.com" }
   ]
