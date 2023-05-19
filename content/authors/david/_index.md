@@ -91,6 +91,6 @@ As Lead Data Scientist at [InsideTracker](https://www.insidetracker.com/), I man
 
 I'm passionate about trail and ultra running, bicycling, bread baking, and reading on topics such as public lands, conservation, and quirky fiction. I believe these interests enrich my creative thinking and problem-solving skills, bringing a unique perspective to my data science work.
 
-If you’re looking for a Data Science Leader who can blend technical expertise with strategic insights, send an [email](mailto:david.failing@gmail.com). I am open to discussing collaborations, job opportunities, or freelance work as a data science and analytics consultant.
+If you’re looking for a Data Science Leader who blends technical expertise with stellar communication, send an [email](mailto:david.failing@gmail.com). I am open to discussing collaborations, job opportunities, or freelance work as a data science and analytics consultant.
 
 I also teach mathematics part-time at [Coconino Community College](https://www.coconino.edu/), and offer [private tutoring]({{< ref "/tutoring" >}}) in mathematics and statistics. 
