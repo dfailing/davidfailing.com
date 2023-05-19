@@ -6,12 +6,12 @@ education:
   - course: PhD in Mathematics
     institution: Iowa State University
     year: 2013
-  - course: Graduate Study in Informatics and Computing
-    institution: Northern Arizona University
-    year: 2020-2021
-  - course: Graduate Study in LIS
-    institution: University of Illinois
-    year: 2013-2019
+  # - course: Graduate Study in Informatics and Computing
+  #   institution: Northern Arizona University
+  #   year: 2020-2021
+  # - course: Graduate Study in LIS
+  #   institution: University of Illinois
+  #   year: 2013-2019
   - course: BS in Mathematics
     institution: Truman State University
     year: 2008
