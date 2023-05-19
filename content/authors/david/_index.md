@@ -87,7 +87,7 @@ social:
 superuser: true
 title: David Failing
 ---
-Most recently, as Lead Data Scientist at [InsideTracker](https://www.insidetracker.com/), I managed the internal data science consultancy, facilitating seamless access to insights that drove marketing decisions, product innovation, and scientific advancement. In this capacity, I developed a custom R package for the team and assumed responsibility for a key RESTful API, among other initiatives. My emphasis on developing systematic processes, creating clear documentation, and establishing cohesive team standards was instrumental in ensuring the creation of outstanding, user-friendly, and standardized data products and reports.
+As Lead Data Scientist at [InsideTracker](https://www.insidetracker.com/), I managed the internal data science consultancy, facilitating seamless access to insights that drove marketing decisions, product innovation, and scientific advancement. In this capacity, I developed a custom R package for the team and assumed responsibility for a key RESTful API, among other initiatives. My emphasis on developing systematic processes, creating clear documentation, and establishing cohesive team standards was instrumental in ensuring the creation of outstanding, user-friendly, and standardized data products and reports.
 
 Actively seeking opportunities, I am excited about roles that bridge the gap between coding and effective communication, particularly in data-driven, growth-oriented organizations. My background in higher education equipped me to excel at simplifying complex technical material, distilling it into digestible content for diverse audiences.
 
