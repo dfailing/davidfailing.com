@@ -31,10 +31,10 @@ item:
   organization: " " # Required
   organization_url:  # Links organization
   description: # Indented within block
+    MAT 091 - Beginning Algebra (Fall '24) <br />
     MAT 097 - Intermediate Algebra (Fall '21)  <br />
-    MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22)
-#   MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22, Summer '23) <br />
-#    MAT 160 - Introduction to Statistics (Fall '22)  
+    MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22, Summer '23)
+#    MAT 151 - ???? (Fall '24)  
   
 - date_start: "2020-05-01" # Required
   date_end: "2021-05-01"
