@@ -25,13 +25,13 @@ date_format: Jan 2006
 
 item:
 - date_start: "2020-06-27" # Required
-  date_end: "2021-05-31"
+  date_end: "2024-05-31"
   title: Coconino Community College # Required
   url: https://www.coconino.edu # Links course title
   organization: " " # Required
   organization_url:  # Links organization
   description: # Indented within block
-    MAT 091 - Beginning Algebra (Fall '24) <br />
+    MAT 091 - Beginning Algebra (Spring '24) <br />
     MAT 097 - Intermediate Algebra (Fall '21)  <br />
     MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22, Summer '23)
 #    MAT 151 - ???? (Fall '24)  
