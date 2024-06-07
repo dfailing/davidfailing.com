@@ -87,7 +87,7 @@ social:
 superuser: true
 title: David Failing
 ---
-As a Senior Data Scientist at [Recast](https://www.getrecast.com), I work directly with marketing decision-makers at to initialize, interpret, and act on the insights from our Bayesian marketing mix model. I directly manage our accounts with 8-10 direct-to-consumer brands with anywhere from $5M to $200M+ in annual marketing spend, helping them optimize their marketing spend to achieve ambitious business goals.
+As a Senior Data Scientist at [Recast](https://www.getrecast.com), I work directly with marketing decision-makers at to initialize, interpret, and act on the insights from our Bayesian marketing mix model. I directly manage our accounts with 8-10 direct-to-consumer brands with anywhere from \$5M to 200M+ in annual marketing spend, helping them optimize their marketing spend to achieve ambitious business goals.
 
 Prior to that, I managed the internal data science consultancy at [InsideTracker](https://www.insidetracker.com/), facilitating seamless access to insights that drove marketing decisions, product innovation, and scientific advancement. I thrive in roles that bridge the gap between coding and effective communication, particularly in data-driven, growth-oriented organizations. My background in higher education equipped me to excel at simplifying complex technical material, distilling it into digestible content for diverse audiences.
 
