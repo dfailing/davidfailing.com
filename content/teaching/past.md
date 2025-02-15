@@ -33,7 +33,7 @@ item:
   description: # Indented within block
     MAT 091 - Beginning Algebra (Spring '24) <br />
     MAT 097 - Intermediate Algebra (Fall '21)  <br />
-    MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22, Summer '23)
+    MAT 140 - College Mathematics with Algebra Review (Summer '20, Fall '20, Spring '21, Summer '21, Summer '22, Summer '23)  <br />
     MAT 142 - College Mathematics (Spring '25, Summer '25)
   
 - date_start: "2020-05-01" # Required
