@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_start: "2024-01-16" # Required
-  date_end: "2024-05-11"
-  title: MAT 097 - Beginning Algebra
+- date_start: "2025-03-17" # Required
+  date_end: "2025-05-11"
+  title: MAT 142 - College Mathematics
   url: # Links course title
   organization: Coconino Community College # Required
   organization_url: https://www.coconino.edu # Links organization
@@ -43,4 +43,4 @@ item:
 #   
 ---
 
-<!--I am currently a part-time instructor at Coconino Community Collegeand a graduate teaching assistant at Northern Arizona University. I am also available for [private tutoring]({{< ref "/tutoring" >}}) (including for most mathematics and statistics courses at CCC and NAU) - click through to see a list, or contact me at david.failing@gmail.com to discuss rates.-->
+<!--I am currently a part-time instructor at Coconino Community College and a graduate teaching assistant at Northern Arizona University. I am also available for [private tutoring]({{< ref "/tutoring" >}}) (including for most mathematics and statistics courses at CCC and NAU) - click through to see a list, or contact me at david.failing@gmail.com to discuss rates.-->
