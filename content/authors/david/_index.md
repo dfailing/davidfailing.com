@@ -35,7 +35,7 @@ organizations:
 #- name: Coconino Community College
 #  url: http://www.coconino.edu
 role: |-
-      Lead Data Scientist and Consultant
+      Data Science Manager and Consultant
       
       Mathematics Instructor
 
