@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Spring 2025'
+title: 'Spring 2026'
 subtitle:
 
 # Date format
@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- date_start: "2025-03-17" # Required
-  date_end: "2025-05-11"
-  title: MAT 142 - College Mathematics
+- date_start: "2026-01-12" # Required
+  date_end: "2026-05-09"
+  title: MAT 042C - College Mathematics Corequisite
   url: # Links course title
   organization: Coconino Community College # Required
   organization_url: https://www.coconino.edu # Links organization

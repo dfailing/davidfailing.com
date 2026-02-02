@@ -87,12 +87,14 @@ social:
 superuser: true
 title: David Failing
 ---
-As Lead Data Scientist at [Recast](https://www.getrecast.com), I work directly with marketing decision-makers to initialize, interpret, and act on the insights from our Bayesian marketing mix model (MMM). I directly manage our accounts with 8-10 direct-to-consumer brands with anywhere from \$5M to 200M+ in annual marketing spend, helping them optimize their marketing spend to achieve ambitious business goals.
+As Manager - Model Maintenance at [Recast](https://www.getrecast.com), I built and lead a team of data scientists responsible for the operation, quality, and evolution of production marketing mix models supporting $13M+ in annual recurring revenue across 65-70 active clients.
 
-Prior to that, I managed the internal data science consultancy at [InsideTracker](https://www.insidetracker.com/), facilitating seamless access to insights that drove marketing decisions, product innovation, and scientific advancement. I thrive in roles that bridge the gap between coding and effective communication, particularly in data-driven, growth-oriented organizations. My background in higher education equipped me to excel at simplifying complex technical material, distilling it into digestible content for diverse audiences.
+I designed this function from the ground up—defining hiring systems, operational processes, and cross-functional workflows that enable our team to deliver reliable analytics at scale. My work bridges technical execution with strategic systems-building: I partner with Engineering to resolve pipeline issues, coordinate with Research on model improvements, and work alongside customer-facing Data Scientists and Project Managers to ensure seamless delivery. I'm also directly involved in hiring and developing early-career data scientists, translating my academic teaching background into leadership that combines technical mentorship with professional growth.
 
-I'm passionate about trail and ultra running, bicycling, bread baking, and reading on topics such as public lands, conservation, and quirky fiction. I believe these interests enrich my creative thinking and problem-solving skills, bringing a unique perspective to my data science work.
+Before Recast, I led the internal data science consultancy at [InsideTracker](https://www.insidetracker.com/), where I built tools and infrastructure that democratized access to insights for marketing, product, and scientific teams. I transitioned to industry from academia in 2021, bringing a professor's instinct for clear communication and systematic thinking to data-driven, growth-oriented environments.
 
-If you’re looking for a Data Science Leader who blends technical expertise with stellar communication, send an [email](mailto:david.failing@gmail.com). I am open to discussing collaborations, job opportunities, or freelance work as a data science and analytics consultant.
+I'm passionate about trail and ultra running, bicycling, bread baking, and reading on topics such as public lands, conservation, and quirky fiction. These interests keep me grounded and fuel the creative problem-solving I bring to building teams and systems, bringing a unique perspective to my data science work.
+
+If you're looking for a data science leader who combines technical depth, people development, and systems thinking, send an [email](mailto:david.failing@gmail.com). I'm open to discussing collaborations, job opportunities, or consulting work.
 
 I also teach mathematics part-time at [Coconino Community College](https://www.coconino.edu/), and offer [private tutoring]({{< ref "/tutoring" >}}) in mathematics and statistics. 
