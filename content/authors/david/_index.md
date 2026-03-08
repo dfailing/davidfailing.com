@@ -87,7 +87,7 @@ social:
 superuser: true
 title: David Failing
 ---
-As Manager - Model Maintenance at [Recast](https://www.getrecast.com), I built and lead a team of data scientists responsible for the operation, quality, and evolution of production marketing mix models supporting $13M+ in annual recurring revenue across 65-70 active clients.
+As Director - Model Maintenance at [Recast](https://www.getrecast.com), I built and lead a team of data scientists responsible for the operation, quality, and evolution of production marketing mix models supporting $13M+ in annual recurring revenue across 65-70 active clients.
 
 I designed this function from the ground up—defining hiring systems, operational processes, and cross-functional workflows that enable our team to deliver reliable analytics at scale. My work bridges technical execution with strategic systems-building: I partner with Engineering to resolve pipeline issues, coordinate with Research on model improvements, and work alongside customer-facing Data Scientists and Project Managers to ensure seamless delivery. I'm also directly involved in hiring and developing early-career data scientists, translating my academic teaching background into leadership that combines technical mentorship with professional growth.
 
